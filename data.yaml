@@ -1,0 +1,8 @@
+path: /content/drive/MyDrive/My_project/DATASET/yolov8_custom_data/Data
+train: /content/drive/MyDrive/My_project/DATASET/yolov8_custom_data/Data/train/images
+val: /content/drive/MyDrive/My_project/DATASET/yolov8_custom_data/Data/val/images
+
+
+nc: 2
+
+names: ['hat','jacket']
